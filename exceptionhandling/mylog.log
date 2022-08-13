@@ -1,0 +1,6 @@
+CRITICAL:root:Critical
+INFO:root:Division in progress
+INFO:root:Division in progress
+ERROR:root:Division by zero
+ERROR:root:Withdrawal is greater than 500
+INFO:root:Division in progress
